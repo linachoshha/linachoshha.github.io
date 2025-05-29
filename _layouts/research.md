@@ -1,8 +1,4 @@
----
-layout: page
-title: "Research"
-permalink: /research/
----
+
 # Mind Mirror: Cognitive Profiling of AI and Human Narrative Comprehension
 
 **Abstract:**  
