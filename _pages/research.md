@@ -1,8 +1,13 @@
+
 ---
 layout: page
-title: "Research"
 permalink: /research/
+title: research
+description: Replace this text with your description.
+nav: true
+nav_order: 1
 ---
+
 
 # Mind Mirror: Cognitive Profiling of AI and Human Narrative Comprehension
 
