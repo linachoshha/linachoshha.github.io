@@ -1,14 +1,19 @@
 ---
 layout: page
 permalink: /research/
-title: research
-description: Replace this text with your description.
+
 nav: true
 nav_order: 1
 ---
 
 
 # Mind Mirror: Cognitive Profiling of AI and Human Narrative Comprehension
+
+Mind Mirror is a research tool I’m developing to make AI models more interpretable by simulating how real human brains process stories.
+
+Using fMRI data from subjects listening to naturalistic narratives like The Pieman, I train temporal models (e.g., GCRBM) to extract individualized cognitive profiles — capturing brain-based patterns of attention, memory, and emotion. These profiles can then be applied to new texts (like my own writing) to visualize how different minds may experience a story.
+
+My aim is to bridge neuroscience, AI, and storytelling to build more explainable models of human-like comprehension.
 
 **Abstract:**  
 Modern AI language models achieve impressive results on many text tasks, yet it is unclear how closely their internal processes align with those of human readers. Our project explores this question by comparing the cognitive features extracted from large language models (LLMs) reading stories with human brain activity measured by fMRI during the same narratives.
