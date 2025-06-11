@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /research/
-
 nav: true
 nav_order: 1
 ---
