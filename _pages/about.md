@@ -32,6 +32,7 @@ I’m an engineer, researcher, and writer with a background in Computer Science 
 I speak four languages and thrive on problems that require both analytical depth and conceptual clarity — from modeling brain-inspired cognitive processes to building real-world ML systems.
 
 My current interests include:
+
 • Interpretable and Bayesian AI 
 • Cognitive modeling and neuroscience-inspired ML 
 • Narrative processing and meaning extraction.
@@ -39,7 +40,7 @@ My current interests include:
 I’m open to research and engineering roles where I can contribute to ML-driven innovation with human-centered design, explainability, and impact.
 
 Follow my journey building meaning-driven tech : 
-[<i class="fab fa-twitter"></i> Follow my journey building meaning-driven tech](https://twitter.com/NarrativeMirror){:target="_blank"}
+[<i class="fab fa-twitter"></i> NarrativeMirror](https://twitter.com/NarrativeMirror){:target="_blank"}
 
 
 
