@@ -2,18 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  
+    
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,8 +24,23 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I’m Lina — a curious mind with a passion for understanding and explaining how things work. Whether it’s designing interpretable algorithms or exploring how narratives impact the brain, I’m driven by one question: 
+How does meaning form, and how can we make it visible?
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I’m an engineer, researcher, and writer with a background in Computer Science from Oxford. I bring experience across machine learning, data science, and modeling complex systems, and I enjoy working at the intersection of cognition, language, and intelligent computation.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I speak four languages and thrive on problems that require both analytical depth and conceptual clarity — from modeling brain-inspired cognitive processes to building real-world ML systems.
+
+My current interests include:
+• Interpretable and Bayesian AI 
+• Cognitive modeling and neuroscience-inspired ML 
+• Narrative processing and meaning extraction.
+
+I’m open to research and engineering roles where I can contribute to ML-driven innovation with human-centered design, explainability, and impact.
+
+Follow my journey building meaning-driven tech : 
+[<i class="fab fa-twitter"></i> Follow my journey building meaning-driven tech](https://twitter.com/NarrativeMirror){:target="_blank"}
+
+
+
+
