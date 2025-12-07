@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m Lina — a curious mind with a passion for understanding and explaining how things work. Whether it’s designing interpretable algorithms or exploring how narratives impact the brain, I’m driven by one question: 
+Hi, I’m Lina : a curious mind with a passion for understanding and explaining how things work. Whether it’s designing interpretable algorithms or exploring how narratives impact the brain, I’m driven by one question: 
 How does meaning form, and how can we make it visible?
 
 I’m an engineer, researcher, and writer with a background in Computer Science from Oxford. I bring experience across machine learning, data science, and modeling complex systems, and I enjoy working at the intersection of cognition, language, and intelligent computation.
