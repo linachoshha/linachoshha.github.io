@@ -2,7 +2,7 @@
 layout: page
 title: Narrative Mirror
 description: 
-img: assets/img/12.jpg
+img: assets/img/12.png
 importance: 1
 category: work
 related_publications: true
@@ -37,6 +37,6 @@ This is just the beginning.
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/12.png
     ---
 
