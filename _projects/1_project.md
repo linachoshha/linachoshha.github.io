@@ -2,7 +2,7 @@
 layout: page
 title: Narrative Mirror
 description: 
-img: assets/img/12.png
+img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
@@ -31,12 +31,3 @@ Meaning-making
 Or simply… Authentic, original stories - ones that move, linger, and challenge… I’d love for you to follow, reflect, or reach out.
 
 This is just the beginning.
-
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.png
-    ---
-
