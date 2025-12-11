@@ -31,6 +31,8 @@ Meaning-making
 Or simply… Authentic, original stories - ones that move, linger, and challenge… I’d love for you to follow, reflect, or reach out.
 
 This is just the beginning.
+
+
     ---
     layout: page
     title: project
