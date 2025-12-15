@@ -22,7 +22,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 10 # leave blank to include all the blog posts
 ---
 
 Hi, I’m Lina : a curious mind with a passion for understanding and explaining how things work. Whether it’s designing interpretable algorithms or exploring how narratives impact the brain, I’m driven by one question: 
