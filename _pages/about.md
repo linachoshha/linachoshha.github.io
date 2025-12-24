@@ -41,7 +41,7 @@ My current interests include:
 I’m open to research and engineering roles where I can contribute to ML-driven innovation with human-centered design, explainability, and impact.
 
 Follow my journey building meaning-driven tech : 
-[<i class="fab fa-twitter"></i> NarrativeMirror](https://twitter.com/NarrativeMirror){:target="_blank"}
+[<i class="fab fa-x-twitter"></i> NarrativeMirror](https://twitter.com/NarrativeMirror){:target="_blank"}
 
 
 
