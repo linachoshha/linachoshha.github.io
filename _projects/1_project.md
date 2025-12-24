@@ -18,8 +18,7 @@ I’m running experiments :
 some technical, some narrative - to trace how stories shape minds.
 I’m exploring how meaning might move through time, memory, and the brain.
 
-I’m documenting this journey in public - idea by idea, insights by failures — on X:
-[Narrative Mirror](https://x.com/NarrativeMirror)
+I’m documenting this journey in public - idea by idea, insights by failures — on [<i class="fab fa-x-twitter"></i> NarrativeMirror](https://twitter.com/NarrativeMirror){:target="_blank"}
 
 If you're curious about:
 
