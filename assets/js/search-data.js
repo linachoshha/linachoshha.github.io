@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-x-post",
+        },{id: "post-from-intelligent-systems-to-intelligent-humans",
+        
+          title: "From Intelligent Systems to Intelligent Humans",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/intelligent-systems-to-intelligent-humans/";
+          
+        },
+      },{id: "post-x-post",
         
           title: "X post",
         
@@ -71,17 +82,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/plotly/";
-          
-        },
-      },{id: "post-from-intelligent-systems-to-intelligent-humans",
-        
-          title: "From Intelligent Systems to Intelligent Humans",
-        
-        description: "How brain-inspired AI could help us understand the mind (and not just build smarter machines).",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/intelligent-systems-to-intelligent-humans/";
           
         },
       },{id: "post-a-post-with-image-galleries",
